@@ -1,0 +1,2 @@
+# floorplancad-process
+将floorplancad中数据集的部分错误更正，并将该数据集中的instance信息转化为coco格式数据集
